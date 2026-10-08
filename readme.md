@@ -70,4 +70,4 @@
 | Duplicate values | Automatically removed   | Duplicate **keys** removed              |
 | Lookup           | `101 in my_set`         | `101 in my_dict`                        |
 | Useful when      | Only need unique values | Need unique values **plus information** |
-| Hashing used?    | ✅ Yes                   | ✅ Yes                                   |
+| Hashing used?    | ✅ Yes                   | ✅ Yes                                |
